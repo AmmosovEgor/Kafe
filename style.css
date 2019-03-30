@@ -1,0 +1,147 @@
+@font-face{
+	src:url(12568.otf);
+	font-family: myfont;
+}
+@font-face{
+	src:url(123.otf);
+	font-family: myfont2;
+}
+body{
+	background: black;
+	height: 3000px;
+}
+h1{color: white;}
+
+h2{color: white;}
+
+p{color: white;}
+
+.flex{
+	display: flex;
+}
+.margin{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+	.imame{
+		margin-top: -900px;
+		width: 1000px;
+		margin-left: calc(50% - 500px)
+	}
+
+	.b1{
+		height: 800px;
+		width: 700px;
+		background-image: url(banner2.jpg);
+		background-size: 100% 100%;
+
+
+	}
+
+		.b2{
+			height: 400px;
+			width: 500px;
+			background-image: url(banner1.jpg);
+			background-size: 100% 100%;
+		}
+
+		.b3{
+			height: 400px;
+			width: 500px;
+			background-image: url(banner3.jpg);
+			background-size: 100% 100%;
+		}
+
+.image{
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+.image img{
+	height: 400px;
+	width: 440px;
+}
+.image h2{
+	border: 3px solid white;
+	background: #101010;
+	text-align: center;
+	font-family: arial;
+	margin-top: -3px;
+}
+
+.main_menu{
+	margin-left: 4%;
+	margin-top: 50px;
+}
+.main_menu img{
+	height: 400px;
+	width: 32%;
+}
+.main_menu h1{
+	font-family: myfont;
+	text-align: center;
+	margin-top: -440px;
+	font-size: 400%;
+}
+.co{
+	margin-top: 500px;
+}
+.co h1{
+	margin-left: 80px;
+	margin-top: -20px;
+	font-size: 250%;
+	font-family: myfont2;
+	font-weight: normal;
+}
+.co p{
+	margin-top: 50px;
+	width: 600px;
+	margin-left: 50px;
+	font-size: 130%;
+	font-family: myfont2;
+}
+.co img{
+	margin-top: 60px;
+	height: 400px;
+	width: 500px;
+}
+.coimg{
+	margin-top: 20px;
+	margin-left: 130px;
+}
+hr{margin-top: 40px;}
+.end{
+	height: 150px;
+	
+}
+.end img{
+	height: 50px;
+}
+.ykt{
+	margin-left: 25px;
+}
+.yktimg{
+	margin-left: 20px;
+}
+.ykt img{
+	margin-top: 10px;
+}
+.www{
+	margin-left: 15px;
+}
+.wwwimg{
+	margin-left: 8px;
+}
+.www img{
+	margin-top: 10px;
+}
+.twitter{
+	margin-left: 6px;
+}
+.gis{
+	margin-left: 600px;
+	text-align: center;
+}
+
